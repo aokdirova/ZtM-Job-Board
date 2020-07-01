@@ -13563,6 +13563,21 @@ export const data = {
         state: "Florida",
         country: "United States",
       },
-    },
+    },{
+      id: uuidv4(),
+      name: "Pavan T",
+      img: "https://pavanskipo.com/assets/img/me.png",
+      links: {
+        website: "https://pavanskipo.com/",
+        linkedin: "https://www.linkedin.com/in/pavan-t/",
+        github: "https://github.com/pavanskipo"
+        },
+      jobTitle: "Software Developer | Aspiring Data Scientist | ML Enthusiast",
+      location: {
+        city: "Chennai",
+        state: "Tamil Nadu",
+        country: "India"
+      }
+    }
   ],
 }
